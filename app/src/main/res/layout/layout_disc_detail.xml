@@ -6,13 +6,12 @@
 		android:layout_marginBottom="10dp"
 		android:gravity="center_vertical"
 		android:padding="15dp">
-		
+
 		<ImageView
 			android:id="@+id/disc_detail_iv_portrait"
 			android:layout_width="50dp"
 			android:layout_height="50dp"
 			android:layout_alignParentLeft="true"
-			android:layout_centerVertical="true"
 			android:layout_marginRight="10dp"
 			android:scaleType="centerInside"
 			android:src="@drawable/ic_default_portrait" />
@@ -63,4 +62,5 @@
 		android:text=""
 		android:textColor="@color/nb.text.common_h2"
 		android:textSize="16dp"/>
+
 </merge>
